@@ -1,0 +1,64 @@
+fieldset {
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+legend {
+	font-weight: bold;
+	color: #A0522D;
+}
+
+#title {
+	padding-left:2em;
+}
+#county {
+	fill: #C0C0C0;
+	stroke: #fff;
+}
+
+#dots {
+	fill: #FF0000;
+}
+
+#filters {
+	position: absolute;
+	top: 80px;
+	left: 1050px;
+	width: 320px;
+	height: 300px;
+	font-size: 1.5em;
+}
+
+#map {
+	position: relative;
+	width: 1000px;
+	height: 700px;
+	border: 3px solid #73AD21;
+}
+
+#compareBox {
+	position: absolute;
+	top: 350px;
+	left: 1050px;
+	width: 320px;
+	height: 430px;
+	border: 3px solid #73AD21;
+}
+
+#compareButton {
+	width: 49%;
+	height: 2em;
+}
+
+#saveButton {
+	width: 49%;
+	height: 2em;
+}
+
+#savedList {
+	position: absolute;
+	width: 160px;
+	height: 2em;
+	top: 35px;
+	left: 1050px;
+}

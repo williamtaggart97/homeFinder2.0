@@ -1,2 +1,2 @@
-# homeFinder2.0
-HomeFinder project for 498O
+# HomeFinder-2.0
+Final Project for CMSC498O
